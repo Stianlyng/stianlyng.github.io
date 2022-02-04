@@ -9,7 +9,10 @@ After stumbeling upon [Obsidian.md](https://www.obsidian.md) a couple of years a
 - [Stuff Everyone Should Know](StuffiShouldKnow) (_work in progress..._)
 - [Awesome Quotes](a)
 
-### Cool Websites
+### Techy Cheatsheets and lifehacks
+- [wget Cheatsheet](notes/wget-commands.md)
+
+## Cool Websites
 - https://excalidraw.com/
 - https://trello.com/
 - https://www.remove.bg/upload
