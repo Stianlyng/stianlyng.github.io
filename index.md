@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to my digital garden🪴
 
-You can use the [editor on GitHub](https://github.com/Stianlyng/stianlyng.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+After stumbeling upon [Obsidian.md](https://www.obsidian.md) a couple of years ago i fell in love with notetaking, and the benefit of processesing my thoughts and research have been huge. My Obsidian notes are half English and half Norwegian, and i'll have to keep most of them to my self. But figuret i might share some cheatsheets, and finished writing or research. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Hope you like my scribbles**
 
-### Markdown
+### Some notes
+- [Book Reviews](Bøker)
+- [Stuff Everyone Should Know](StuffiShouldKnow) (_work in progress..._)
+- [Awesome Quotes](a)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Stianlyng/stianlyng.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Cool Websites
+- https://excalidraw.com/
+- https://trello.com/
+- https://www.remove.bg/upload
+- https://regex101.com/
+- https://www.photopea.com/
